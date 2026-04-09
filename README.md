@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/8fc1bfc4-eec9-4c2f-b1e9-76c1f897dae2)
+
+
 # KNU_department_guide
 경북대학교 단과대학 설명
 
