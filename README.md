@@ -1,5 +1,7 @@
 # 경북대학교 사범대학
 ## Teachers College, Kyungpook National University
+
+## 비전
 **70여년 역사에 빛나는 중등 교원의 산실, 미래 사회를 이끌어 갈 사범교육의 중심, 세계로 비상하는 인재들의 요람**
 
 ## 학과 소개 및 연락
