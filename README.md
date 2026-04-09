@@ -2,10 +2,10 @@
 # 경북대학교 단과대학 설명
 
 # 인문대학
-[경북대인문대학사진]https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/03/18/PS26031801260.jpg)
+[경북대인문대학사진](https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/03/18/PS26031801260.jpg)
 
 ## 연혁
-| date | --- |
+| date | |
 | ----- | ---- |
 | 1951.10 | 문리과대학 신설 (국어국문학과, 영어영문학과, 사학과, 철학과, 수학과, 물리학과) |
 | 1976.03~1980.03  | 불어불문학과, 독어독문학과, 중어중문학과, 고고인류학과 신설 |
@@ -61,13 +61,12 @@
 
 사학과, 철학과, 불어불문학과, 독어독문학과, 중어중문학과, 고고인류학과, 일어일문학과, 한문학과, 노어노문학과, 인문카운슬링학과, 국어국문학과, 영어영문학과 
 
-| 연구소 | --- | 
+| 연구소 |  | 
 | --- | ---- | 
 | 퇴계연구소 | 한국전통문화연구 | 
 | 러시아-유라시아 연구소 |러시아, 유라시아 국제관계 연구  | 
-| 동서사상연구소 |동서양 인문학 고전의 현대적 해석, 인문학 대중화  | 
-| 미주유럽연구소 | EU지역 학술연구| 
-|
+| 동서사상연구소 |동서양 인문학 고전의 현대적 해석, 문학 대중화  | 
+| 미주유럽연구소 | EU지역 학술연구 | 
 ---
 
 ## 교육, 연구 사업
@@ -102,4 +101,25 @@
 
 5. 초경계 지향 역사문화 교육연구단 
 
-전국에서 인문대학으로는 가장 많은 5개의 팀을 운영 중  
+## 전국에서 인문대학으로는 가장 많은 5개의 팀을 운영 중  
+
+----
+
+## 관련링크 
+| 제목 | 링크 | 
+| ---- | ----- |
+| 인문대학 | https://humanities.knu.ac.kr/ |
+| 고고인류학과 |  https://aran.knu.ac.kr/ |
+| 국어국문학과 | https://korean.knu.ac.kr/ |
+| 노어노문학과 | https://knurussian.knu.ac.kr/ |
+| 독어독문학과 |  https://german.knu.ac.kr/ |
+| 불어불문학과 | https://france.knu.ac.kr/ |
+| 사학과 | https://khistory.knu.ac.kr/ |
+| 일어일문학과 | https://japan.knu.ac.kr/ |
+| 중어중문학과 | https://humanities.knu.ac.kr/ | 
+| 철학과 | https://philosophy.knu.ac.kr/ | 
+| 한문학과 | https://hanmun.knu.ac.kr/ | 
+| 인문대학 자율학부 | https://hudm.knu.ac.kr/ |
+| 입학처 | https://ipsi1.knu.ac.kr/main/ |
+
+ 
