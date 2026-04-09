@@ -1,2 +1,3 @@
-# KNU_department_guide
-경북대학교 단과대학 설명
+# 경북대헉교 사범대학
+Teachers College, Kyungpook National University
+
