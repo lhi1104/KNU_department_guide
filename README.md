@@ -2,7 +2,13 @@
 # 경북대학교 단과대학 설명
 
 # 인문대학
-(https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/03/18/PS26031801260.jpg)
+
+![Image](https://github.com/user-attachments/assets/e0e4a5e7-af31-4203-87e5-100f68016835)
+
+2026년 리모데링 공사를 마쳤다. 
+
+[인문대전경사진](https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/03/18/PS26031801260.jpg)
+
 
 ## 연혁
 | date | |
