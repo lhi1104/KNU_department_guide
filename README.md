@@ -11,8 +11,6 @@
 # 경북대학교 단과대학 
 경북대학교는 대구광역시 북구, 경상북도 상주시에 소재한 국립대학이자 의과대학, 사범대학, 인문사회대학, 사회과학대학을 갖춘 대규모 종합 대학이다.
 
-![image](https://github.com/user-attachments/assets/8fc1bfc4-eec9-4c2f-b1e9-76c1f897dae2)
-
 # 🏥 경북대학교 의과대학
 
 ### Kyungpook National University College of Medicine
@@ -21,6 +19,9 @@
 > **100년 이상의 역사와 전통** 위에서 미래 의료인을 양성하는 교육기관
 
 <br>
+
+![image](https://github.com/user-attachments/assets/8fc1bfc4-eec9-4c2f-b1e9-76c1f897dae2)
+
 
 -----
 
