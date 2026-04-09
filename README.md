@@ -2,7 +2,7 @@
 # 경북대학교 단과대학 설명
 
 # 인문대학
-[경북대인문대학사진](https://dhnews.co.kr/news/data/20260318/p1065597338506552_943_thum.jpg)
+[경북대인문대학사진]https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/03/18/PS26031801260.jpg)
 
 ## 연혁
 | date | --- |
