@@ -3,8 +3,8 @@
 ## College of Social Sciences, Kyungpook National University
 
 <p align="center">
-  <img src="https://www.knu.ac.kr/images/common/logo.png" alt="경북대학교 로고" width="200"/>
-  <p align="center">
+  <img src="logo.png" alt="경북대학교 로고" width="200"/>
+</p>
   <img src="https://img.shields.io/badge/경북대학교-사회과학대학-4B2D7F?style=for-the-badge" alt="경북대 사회과학대학"/>
   <img src="https://img.shields.io/badge/KNU-College_of_Social_Sciences-4B2D7F?style=for-the-badge&logo=academia&logoColor=white" alt="KNU"/>
 </p>
